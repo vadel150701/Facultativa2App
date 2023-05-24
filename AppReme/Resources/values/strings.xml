@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AppReme</string>
+    <string name="action_settings">Settings</string>
+
+	<string name="a">Año</string>
+	<string name="mes">Mes</string>
+	<string name="banco">Banco Central de Nicaragua</string>
+	<string name="reme">Remesas Familiares</string>
+	<string name="sele">Seleccione un mes: </string>
+	<string name="selec">Seleccione un año: </string>
+	<string name="millo">Millones de dólares</string>
+	<string name="vista">Vista por año</string>
+	<string name="vistm">Vista por mes</string>
+</resources>
